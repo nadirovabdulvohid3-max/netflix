@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-_l+n(bt_i6dakm6pk7^y9vhqzezjzocs+qt3-ehp-=nkwpg&%6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-CSRF_TRUSTED_ORIGINS = ['https://netflix-dekk.onrender.com']
+CSRF_TRUSTED_ORIGINS = [*]
 
 
 # Application definition
