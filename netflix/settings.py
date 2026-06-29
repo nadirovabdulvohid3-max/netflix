@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-_l+n(bt_i6dakm6pk7^y9vhqzezjzocs+qt3-ehp-=nkwpg&%6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['netflix-dekk.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
